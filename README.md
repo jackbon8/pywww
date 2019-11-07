@@ -74,17 +74,5 @@
 
 ## 项目说明
 
-不定期更新脚本，脚本失效了，或者你有想抓的网站，想做的小工具，
-欢迎提issues，可以加下我微信，拉你进群一起学习Py！
-
-![][2]
-
-我写过的Python教程可见：[https://juejin.im/user/570afb741ea493005de84da3][3]
-
-
-
-
-
-  [1]: http://static.zybuluo.com/coder-pig/y0qln52j7cg4f39wzf2muh8m/1.gif
-  [2]: http://static.zybuluo.com/coder-pig/qaadbz1aml70m4jaw7712p9x/1.png
-  [3]: https://juejin.im/user/570afb741ea493005de84da3
+不定期更新脚本，脚本失效了，或者你有想抓的网站，想做的小工具，欢迎提issues
+喜欢光脚盆友的，可以加下我微信！
